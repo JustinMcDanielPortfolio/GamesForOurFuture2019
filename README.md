@@ -7,7 +7,7 @@ The game was created using Unreal Engine 4. My responsibilities on the team incl
 The jam was a whole lot of fun and I enjoyed meeting so many talented individuals chasing their dreams! The success of our game would not have been possible without our talented team. We all worked really hard and learned a lot.
 
 
-# Primary code paths
+# Primary source files
 
   - Content/Blueprints/Character/BP_BoatCharacter
   - Content/Blueprints/Iceberg_blueprints/Iceberg
